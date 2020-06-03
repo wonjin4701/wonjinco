@@ -3,7 +3,7 @@
 #공지할 사람의 디스코드 ID 입력
 owner = [686560700562407424]
 #봇의 토큰 입력
-access_token = os.environ["BOT_TOKEN"]
+
 #봇의 접두사 입력
 first = "/"
 #봇의 공지 명령어 입력
