@@ -104,4 +104,4 @@ async def on_message(message):
 	await process_command(message)
 
 if __name__ == '__main__':
-	app.run(option.token)
+	app.run(access_token)
