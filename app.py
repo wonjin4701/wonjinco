@@ -1,10 +1,10 @@
 
 
 import discord
-import asyncio
 
 import option
 
+access_token = os.environ["BOT_TOKEN"]
 app = discord.Client()
 
 class DPNK:
